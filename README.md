@@ -2,7 +2,7 @@ Instructions:
 
 1. Open your terminal and then type
 
-`$ git clone https://github.com/BlueKhakis/frontend-test.git`
+`$ git clone https://github.com/BlueKhakis/colors-url.git`
 
 This clones the repo
 
