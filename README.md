@@ -1,4 +1,4 @@
-Create a list of colours by typing `#tags=red,blue,yellow` or any other colours of your choosing (separated by a comma). Non-colour words will appear in a random colour!
+Create a list of colours by typing `#tags=red,blue,yellow` or any other colours of your choosing (separated by a comma) into the URL, or add them via the text box. Non-colour words will appear in a random colour!
 
 Running instructions:
 
